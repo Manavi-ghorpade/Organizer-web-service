@@ -1,0 +1,53 @@
+body {
+ padding: 40px;
+ 
+ }
+ table {
+ margin: auto;
+ background: tan;
+ border: 1px solid black;
+ }
+
+ td {
+ background: tan;
+ width: 60px;
+ height: 60px;
+ border: 1px solid black;
+ font-size: 60px;
+ text-align: center;
+ }
+ 
+h2{
+text-align:center;
+margin-bottom: 40px;
+}
+
+ 
+tr:nth-child(odd) > td:nth-child(odd) 
+{
+  background:chocolate;
+}
+
+tr:nth-child(even) > td:nth-child(even) 
+{
+  background:chocolate;
+}
+
+.buttons
+{
+  display:table;
+  margin-left: auto;
+  margin-right: auto;
+  text-align: center;
+}
+.button
+{
+  display:table;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+#reset
+{
+  margin-top: 15px;
+}
