@@ -4,6 +4,7 @@ created chessboard game using Django and GCP
 Implement a full stack Organizer web service from scratch using all of the tools and technologies - HTML, CSS, Javascript, Bootstrap, Django & Python.
 
 created docker image-
+
   step 1:  Create file requirements.txt with these contents:
     asgiref==3.2.10
     Django==3.0.9
