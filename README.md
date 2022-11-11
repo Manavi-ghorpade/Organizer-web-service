@@ -53,9 +53,9 @@ used chartlist to create chart-
 
   Include Chartist css & js
   
-  <link rel="stylesheet" href="//cdn.jsdelivr.net/chartist.js/latest/chartist.min.css">
+  	<link rel="stylesheet" href="//cdn.jsdelivr.net/chartist.js/latest/chartist.min.css">
   
-  <script src="//cdn.jsdelivr.net/chartist.js/latest/chartist.min.js">
+  	<script src="//cdn.jsdelivr.net/chartist.js/latest/chartist.min.js">
 	
   
 	
